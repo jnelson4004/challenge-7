@@ -1,12 +1,9 @@
-// generate markdown
 
-function generateMarkdown(data) {
-  return `
 # Project Title
-${data.Title}
+sdf
 
 # Description
-${data.Description}
+sdf
 
 # Table of Contents 
 * [Installation](#-Installation)
@@ -17,28 +14,22 @@ ${data.Description}
 * [Contact Information](#-Contact-Information)
   
 # Installation
-${data.Installation}
+sdf
 
 # Usage
-${data.Usage}
+sdf
 
 # License 
-${data.License} 
+sdf 
 
 # Contributing 
-${data.Contributing}
+sdf
 
 # Tests
-${data.Tests}
+sdf
 
 # Contact Information 
 * Contact the address below with any questions.
-* GitHub Username: ${data.UserName}
-* Contact Email: ${data.Email}
+* GitHub Username: dgf
+* Contact Email: sdf
 
-`;
-}
-
-// export the generateMarkdown function 
-
-module.exports = generateMarkdown;
