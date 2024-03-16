@@ -1,9 +1,9 @@
 
 # Project Title
-sdf
+README Generator
 
 # Description
-sdf
+This is a README generator
 
 # Table of Contents 
 * [Installation](#-Installation)
@@ -14,22 +14,22 @@ sdf
 * [Contact Information](#-Contact-Information)
   
 # Installation
-sdf
+No installation required
 
 # Usage
-sdf
+Navigate to the challenge-7 directory, then run node index
 
 # License 
-sdf 
+MIT License 
 
 # Contributing 
-sdf
+Torre, Walter, Alexis, and the AI coding   chatbot
 
 # Tests
-sdf
+One million node index runs
 
 # Contact Information 
 * Contact the address below with any questions.
-* GitHub Username: dgf
-* Contact Email: sdf
+* GitHub Username: jnelson4004
+* Contact Email: jnelson4004@gmail.com
 
